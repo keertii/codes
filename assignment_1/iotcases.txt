@@ -10,4 +10,14 @@ List out 20 use cases of the Internet of Things:-
 7) Smart Cities: Energy, Transportation, Parking and More
 8) Healthcare
 9) Smart Agriculture
-10) IoT Sensors and IoT Data Analytics
+10) IoT Sensors
+11) IoT Data Analytics
+12) Smart surveillance
+13) Automated transportation
+14) Smarter energy management systems
+15) Urban security 
+16) Environmental monitoring
+17) Smart Barcode Readers
+18) Smart Farming
+19) Smart Fire Extinguishers
+20) Bike Helmet Crash Sensors
