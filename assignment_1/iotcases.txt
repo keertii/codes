@@ -1,0 +1,13 @@
+
+List out 20 use cases of the Internet of Things:-
+
+1) Autonomous and Connected Vehicles
+2) AR/VR
+3) Smart Watches, Fitness Trackers, Wearables and “Hearables”
+4) Machine-to-Machine (M2M) Connected Devices
+5) Supply Chains of the Future
+6) Drones on the Rise
+7) Smart Cities: Energy, Transportation, Parking and More
+8) Healthcare
+9) Smart Agriculture
+10) IoT Sensors and IoT Data Analytics
